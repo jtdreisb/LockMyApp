@@ -11,17 +11,14 @@
 
 @implementation PasswordView
 @synthesize speaker;
-- (void)textDidChange:(NSNotification *)aNotification
-{
-	
-}
+
 
 - (id)initWithSpeaker:(NSSpeechSynthesizer *) speak frame:(NSRect)frame {
 	self = [self initWithFrame:frame];
 	self.speaker = speak;
 	return self;
 }
-a
+
 - (id)initWithFrame:(NSRect)frame {
     self = [super initWithFrame:frame];
     if (self) {
@@ -49,10 +46,10 @@ a
     return self;
 }
 - (void) buttonPress {
-	if ([[password stringValue] isEqualToString:@"Faggot"]) {
-		[speaker startSpeakingString:@"Yes, You are a Fag"];
+	if ([[password stringValue] isEqualToString:@"butthead"]) {
+		[speaker startSpeakingString:@"Yes, You are a butthead"];
 	} else {
-		[speaker startSpeakingString:[NSString stringWithFormat:@"%@ was not the code, You Fag get",[password stringValue]]];
+		[speaker startSpeakingString:[NSString stringWithFormat:@"%@ was not the code, You butt head",[password stringValue]]];
 		wrong = YES;
 		[speaker setDelegate:self];
 	}

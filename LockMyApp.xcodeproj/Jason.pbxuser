@@ -36,6 +36,12 @@
 		};
 		perUserProjectItems = {
 			966106CD10BC761300A6386F /* PBXTextBookmark */ = 966106CD10BC761300A6386F /* PBXTextBookmark */;
+			966106EB10BC7FB400A6386F /* PlistBookmark */ = 966106EB10BC7FB400A6386F /* PlistBookmark */;
+			966106EC10BC7FB400A6386F /* PBXTextBookmark */ = 966106EC10BC7FB400A6386F /* PBXTextBookmark */;
+			966106ED10BC7FB400A6386F /* PBXTextBookmark */ = 966106ED10BC7FB400A6386F /* PBXTextBookmark */;
+			966106EE10BC7FB400A6386F /* PBXTextBookmark */ = 966106EE10BC7FB400A6386F /* PBXTextBookmark */;
+			966106EF10BC7FB400A6386F /* PBXTextBookmark */ = 966106EF10BC7FB400A6386F /* PBXTextBookmark */;
+			966106F010BC7FB400A6386F /* PBXTextBookmark */ = 966106F010BC7FB400A6386F /* PBXTextBookmark */;
 			96FE85A810B0EC9700B62580 = 96FE85A810B0EC9700B62580 /* PlistBookmark */;
 			96FE85C310B1113300B62580 = 96FE85C310B1113300B62580 /* PBXTextBookmark */;
 			96FE85D010B1129900B62580 = 96FE85D010B1129900B62580 /* PBXTextBookmark */;
@@ -81,10 +87,74 @@
 		fRef = 9692FBF610B09E3C00C46930 /* PasswordView.m */;
 		name = "PasswordView.m: 55";
 		rLen = 0;
-		rLoc = 1510;
+		rLoc = 1451;
 		rType = 0;
 		vrLen = 1281;
 		vrLoc = 524;
+	};
+	966106EB10BC7FB400A6386F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			SIMBLTargetApplications,
+			0,
+			BundleIdentifier,
+		);
+		name = /Users/Jason/Desktop/LockMyApp/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	966106EC10BC7FB400A6386F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9692FBF510B09E3C00C46930 /* PasswordView.h */;
+		name = "PasswordView.h: 15";
+		rLen = 0;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 408;
+		vrLoc = 0;
+	};
+	966106ED10BC7FB400A6386F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9692FBF310B09D5F00C46930 /* Loader.m */;
+		name = "Loader.m: 43";
+		rLen = 0;
+		rLoc = 1086;
+		rType = 0;
+		vrLen = 921;
+		vrLoc = 524;
+	};
+	966106EE10BC7FB400A6386F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9692FBF210B09D5F00C46930 /* Loader.h */;
+		name = "Loader.h: 15";
+		rLen = 0;
+		rLoc = 285;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 0;
+	};
+	966106EF10BC7FB400A6386F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9692FBF610B09E3C00C46930 /* PasswordView.m */;
+		name = "PasswordView.m: 24";
+		rLen = 0;
+		rLoc = 372;
+		rType = 0;
+		vrLen = 1129;
+		vrLoc = 143;
+	};
+	966106F010BC7FB400A6386F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9692FBF610B09E3C00C46930 /* PasswordView.m */;
+		name = "PasswordView.m: 14";
+		rLen = 0;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 1184;
+		vrLoc = 3;
 	};
 	9692FBF010B09CFD00C46930 /* Source Control */ = {
 		isa = PBXSourceControlManager;
@@ -123,9 +193,9 @@
 	};
 	9692FBF610B09E3C00C46930 /* PasswordView.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1167, 936}}";
-			sepNavSelRange = "{432, 0}";
-			sepNavVisRange = "{143, 1129}";
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 897}}";
+			sepNavSelRange = "{221, 0}";
+			sepNavVisRange = "{3, 1184}";
 		};
 	};
 	96FE855310B0E51600B62580 /* NSWindow.h */ = {
@@ -405,7 +475,7 @@
 		fRef = 9692FBF610B09E3C00C46930 /* PasswordView.m */;
 		name = "PasswordView.m: 59";
 		rLen = 0;
-		rLoc = 1612;
+		rLoc = 1561;
 		rType = 0;
 		vrLen = 1329;
 		vrLoc = 432;
@@ -415,7 +485,7 @@
 		fRef = 9692FBF610B09E3C00C46930 /* PasswordView.m */;
 		name = "PasswordView.m: 55";
 		rLen = 0;
-		rLoc = 1510;
+		rLoc = 1451;
 		rType = 0;
 		vrLen = 1297;
 		vrLoc = 508;

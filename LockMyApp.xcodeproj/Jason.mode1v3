@@ -271,7 +271,6 @@
 								<string>089C166AFE841209C02AAC07</string>
 								<string>08FB77AFFE84173DC02AAC07</string>
 								<string>089C167CFE841241C02AAC07</string>
-								<string>089C167DFE841241C02AAC07</string>
 								<string>1C37FABC05509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
@@ -302,7 +301,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>0 55 1436 823 0 0 1440 878 </string>
+						<string>0 54 1436 823 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -332,10 +331,9 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>966106CD10BC761300A6386F</string>
+										<string>966106F010BC7FB400A6386F</string>
 										<key>history</key>
 										<array>
-											<string>96FE85A810B0EC9700B62580</string>
 											<string>96FE85C310B1113300B62580</string>
 											<string>96FE85D010B1129900B62580</string>
 											<string>96FE85DF10B1148600B62580</string>
@@ -349,11 +347,12 @@
 											<string>96FE862F10B127CE00B62580</string>
 											<string>96FE86A610B132EB00B62580</string>
 											<string>96FE86A810B132EB00B62580</string>
-											<string>96FE86AA10B132EB00B62580</string>
-											<string>96FE86AB10B132EB00B62580</string>
-											<string>96FE86AC10B132EB00B62580</string>
 											<string>96FE86AD10B132EB00B62580</string>
-											<string>96FE86B010B132EB00B62580</string>
+											<string>966106EB10BC7FB400A6386F</string>
+											<string>966106EC10BC7FB400A6386F</string>
+											<string>966106ED10BC7FB400A6386F</string>
+											<string>966106EE10BC7FB400A6386F</string>
+											<string>966106EF10BC7FB400A6386F</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -367,7 +366,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {1228, 586}}</string>
 								<key>RubberWindowFrame</key>
-								<string>0 55 1436 823 0 0 1440 878 </string>
+								<string>0 54 1436 823 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -387,7 +386,7 @@
 								<key>Frame</key>
 								<string>{{0, 591}, {1228, 191}}</string>
 								<key>RubberWindowFrame</key>
-								<string>0 55 1436 823 0 0 1440 878 </string>
+								<string>0 54 1436 823 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -555,7 +554,7 @@
 		<string>/Users/Jason/Desktop/LockMyApp/LockMyApp.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>0 55 1436 823 0 0 1440 878 </string>
+	<string>0 54 1436 823 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
