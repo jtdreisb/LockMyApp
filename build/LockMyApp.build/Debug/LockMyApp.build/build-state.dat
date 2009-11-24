@@ -1,0 +1,315 @@
+TLockMyApp
+v7
+r0
+t280048077.772649
+cCheck dependencies
+cProcessInfoPlistFile /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/Jason/Desktop/LockMyApp/PopupWindow.xib
+cProcessPCH /var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LockMyApp_Prefix-dadyuebmtflppkezjyypalxhnfhz/LockMyApp_Prefix.pch.gch LockMyApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/i386/Loader.o /Users/Jason/Desktop/LockMyApp/Loader.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/i386/PasswordView.o /Users/Jason/Desktop/LockMyApp/PasswordView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/MacOS/LockMyApp normal i386
+cTouch /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Jason/Desktop/LockMyApp/English.lproj/InfoPlist.strings
+c000000004B00655E0000000000000030
+t1258317150
+s48
+
+N/Users/Jason/Desktop/LockMyApp/Loader.h
+c000000004B00EB9000000000000001A3
+t1258351504
+s419
+i<Cocoa/Cocoa.h>
+i"PasswordView.h"
+
+N/Users/Jason/Desktop/LockMyApp/Loader.m
+c000000004B00F88A00000000000005C7
+t1258354826
+s1479
+i"Loader.h"
+
+N/Users/Jason/Desktop/LockMyApp/LockMyApp_Prefix.pch
+c000000004B00655E0000000000000096
+t1258317150
+s150
+i<Cocoa/Cocoa.h>
+
+N/Users/Jason/Desktop/LockMyApp/PasswordController.h
+c000000004B00A72D00000000000000EE
+t1258333997
+s238
+i<Cocoa/Cocoa.h>
+
+N/Users/Jason/Desktop/LockMyApp/PasswordController.m
+c000000004B00A73F000000000000016A
+t1258334015
+s362
+i"PasswordController.h"
+
+N/Users/Jason/Desktop/LockMyApp/PasswordController.xib
+c000000004B00A6730000000000001871
+t1258333811
+s6257
+
+N/Users/Jason/Desktop/LockMyApp/PasswordView.h
+c000000004B00F8290000000000000198
+t1258354729
+s408
+i<Cocoa/Cocoa.h>
+
+N/Users/Jason/Desktop/LockMyApp/PasswordView.m
+c000000004B00FA49000000000000070D
+t1258355273
+s1805
+i"PasswordView.h"
+
+N/Users/Jason/Desktop/LockMyApp/PasswordWindow.xib
+c000000004B00A58E0000000000008B64
+t1258333582
+s35684
+
+N/Users/Jason/Desktop/LockMyApp/PopupWindow.xib
+c000000004B00E7930000000000007A64
+t1258350483
+s31332
+
+N/Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle
+t1258355277
+s102
+
+N/Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/Info.plist
+t1258355277
+s1078
+
+N/Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/MacOS/LockMyApp
+t1258355277
+s23888
+
+N/Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/Resources/English.lproj/InfoPlist.strings
+t1258355277
+s92
+
+N/Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/Resources/PasswordController.nib
+t2
+s0
+
+N/Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/Resources/PasswordWindow.nib
+t2
+s0
+
+N/Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/Resources/PopupWindow.nib
+t1258355277
+s3943
+
+N/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/i386/Loader.o
+t1258354827
+s18848
+
+N/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/i386/LockMyApp.LinkFileList
+c000000004B00B00900000000000000D6
+t1258336265
+s214
+
+N/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/i386/PasswordView.o
+t1258355277
+s23204
+
+N/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/x86_64/Loader.o
+t1258335896
+s15764
+
+N/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/x86_64/LockMyApp.LinkFileList
+c000000004B00AAF000000000000000DA
+t1258334960
+s218
+
+N/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/x86_64/PasswordController.o
+t2
+s0
+
+N/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/x86_64/PasswordView.o
+t1258335937
+s17412
+
+N/var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LockMyApp_Prefix-awraixfsrxntzdaricsghtfioaps/LockMyApp_Prefix.pch.gch
+t1258334968
+s54212368
+
+N/var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LockMyApp_Prefix-dadyuebmtflppkezjyypalxhnfhz/LockMyApp_Prefix.pch.gch
+t1258336269
+s56846128
+
+NInfo.plist
+c000000004B00DCA6000000000000048D
+t1258347686
+s1165
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies280048077#280048077#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/i386/Loader.o /Users/Jason/Desktop/LockMyApp/Loader.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s280047627.202661
+e280047627.590512
+r1
+xCompileC
+xbuild/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/i386/Loader.o
+x/Users/Jason/Desktop/LockMyApp/Loader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/Jason/Desktop/LockMyApp/Loader.m280047627#280047627#0(0"0(0#0#39"/Users/Jason/Desktop/LockMyApp/Loader.m4300885448#1400"    cd /Users/Jason/Desktop/LockMyApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-generated-files.hmap -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-own-target-headers.hmap -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-all-target-headers.hmap -iquote /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-project-headers.hmap -F/Users/Jason/Desktop/LockMyApp/build/Debug -I/Users/Jason/Desktop/LockMyApp/build/Debug/include -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/DerivedSources/i386 -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/DerivedSources -include /var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LockMyApp_Prefix-dadyuebmtflppkezjyypalxhnfhz/LockMyApp_Prefix.pch -c /Users/Jason/Desktop/LockMyApp/Loader.m -o /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/i386/Loader.o0#
+
+CCompileC build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/i386/PasswordView.o /Users/Jason/Desktop/LockMyApp/PasswordView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s280048077.342357
+e280048077.730361
+r1
+xCompileC
+xbuild/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/i386/PasswordView.o
+x/Users/Jason/Desktop/LockMyApp/PasswordView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Jason/Desktop/LockMyApp/PasswordView.m280048077#280048077#0(0"0(0#0#45"/Users/Jason/Desktop/LockMyApp/PasswordView.m4300885448#1412"    cd /Users/Jason/Desktop/LockMyApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-generated-files.hmap -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-own-target-headers.hmap -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-all-target-headers.hmap -iquote /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-project-headers.hmap -F/Users/Jason/Desktop/LockMyApp/build/Debug -I/Users/Jason/Desktop/LockMyApp/build/Debug/include -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/DerivedSources/i386 -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/DerivedSources -include /var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LockMyApp_Prefix-dadyuebmtflppkezjyypalxhnfhz/LockMyApp_Prefix.pch -c /Users/Jason/Desktop/LockMyApp/PasswordView.m -o /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/i386/PasswordView.o0#
+
+CCompileC build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/x86_64/Loader.o /Users/Jason/Desktop/LockMyApp/Loader.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s280028696.247853
+e280028696.403301
+r1
+xCompileC
+xbuild/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/x86_64/Loader.o
+x/Users/Jason/Desktop/LockMyApp/Loader.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Jason/Desktop/LockMyApp/Loader.m: In function '+[Loader load]':
+o/Users/Jason/Desktop/LockMyApp/Loader.m:18: warning: instance variable 'window' accessed in class method
+o/Users/Jason/Desktop/LockMyApp/Loader.m:20: warning: instance variable 'window' accessed in class method
+o/Users/Jason/Desktop/LockMyApp/Loader.m:21: warning: instance variable 'window' accessed in class method
+o/Users/Jason/Desktop/LockMyApp/Loader.m:17: warning: unused variable 'speaker'
+lSLF07#2@47"Compile /Users/Jason/Desktop/LockMyApp/Loader.m280028696#280028696#0(465"/Users/Jason/Desktop/LockMyApp/Loader.m: In function '+[Loader load]':/Users/Jason/Desktop/LockMyApp/Loader.m:18: warning: instance variable 'window' accessed in class method/Users/Jason/Desktop/LockMyApp/Loader.m:20: warning: instance variable 'window' accessed in class method/Users/Jason/Desktop/LockMyApp/Loader.m:21: warning: instance variable 'window' accessed in class method/Users/Jason/Desktop/LockMyApp/Loader.m:17: warning: unused variable 'speaker'4(22@51"Instance variable 'window' accessed in class method280028696#71#105#0(6@39"/Users/Jason/Desktop/LockMyApp/Loader.m280028616#18#0#18#0#0"0(22@51"Instance variable 'window' accessed in class method280028696#176#105#0(6@39"/Users/Jason/Desktop/LockMyApp/Loader.m280028616#20#0#20#0#0"0(22@51"Instance variable 'window' accessed in class method280028696#281#105#0(6@39"/Users/Jason/Desktop/LockMyApp/Loader.m280028616#21#0#21#0#0"0(22@25"Unused variable 'speaker'280028696#386#79#0(6@39"/Users/Jason/Desktop/LockMyApp/Loader.m280028616#17#0#17#0#19"unused variable '*'0(0#0#39"/Users/Jason/Desktop/LockMyApp/Loader.m4300885448#1406"    cd /Users/Jason/Desktop/LockMyApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-generated-files.hmap -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-own-target-headers.hmap -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-all-target-headers.hmap -iquote /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-project-headers.hmap -F/Users/Jason/Desktop/LockMyApp/build/Debug -I/Users/Jason/Desktop/LockMyApp/build/Debug/include -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/DerivedSources/x86_64 -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/DerivedSources -include /var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LockMyApp_Prefix-awraixfsrxntzdaricsghtfioaps/LockMyApp_Prefix.pch -c /Users/Jason/Desktop/LockMyApp/Loader.m -o /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/x86_64/Loader.o0#
+
+CCompileC build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/x86_64/PasswordController.o /Users/Jason/Desktop/LockMyApp/PasswordController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/x86_64/PasswordView.o /Users/Jason/Desktop/LockMyApp/PasswordView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s280028737.193902
+e280028737.339560
+r1
+xCompileC
+xbuild/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/x86_64/PasswordView.o
+x/Users/Jason/Desktop/LockMyApp/PasswordView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Jason/Desktop/LockMyApp/PasswordView.m280028737#280028737#0(0"0(0#0#45"/Users/Jason/Desktop/LockMyApp/PasswordView.m4300885448#1418"    cd /Users/Jason/Desktop/LockMyApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-generated-files.hmap -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-own-target-headers.hmap -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-all-target-headers.hmap -iquote /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-project-headers.hmap -F/Users/Jason/Desktop/LockMyApp/build/Debug -I/Users/Jason/Desktop/LockMyApp/build/Debug/include -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/DerivedSources/x86_64 -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/DerivedSources -include /var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LockMyApp_Prefix-awraixfsrxntzdaricsghtfioaps/LockMyApp_Prefix.pch -c /Users/Jason/Desktop/LockMyApp/PasswordView.m -o /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/x86_64/PasswordView.o0#
+
+CCompileXIB /Users/Jason/Desktop/LockMyApp/PasswordController.xib
+r0
+
+CCompileXIB /Users/Jason/Desktop/LockMyApp/PasswordWindow.xib
+r0
+
+CCompileXIB /Users/Jason/Desktop/LockMyApp/PopupWindow.xib
+s280048077.053787
+e280048077.341992
+r1
+xCompileXIB
+x/Users/Jason/Desktop/LockMyApp/PopupWindow.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/Jason/Desktop/LockMyApp/PopupWindow.xib:16: note: This view is clipping its content.
+lSLF07#2@26"CompileXIB PopupWindow.xib280048077#280048077#0(132"/* com.apple.ibtool.document.notices *//Users/Jason/Desktop/LockMyApp/PopupWindow.xib:16: note: This view is clipping its content.1(13@34"This view is clipping its content.280048077#18446744073709551615#0#0(6@46"/Users/Jason/Desktop/LockMyApp/PopupWindow.xib280043283#16#0#16#0#0"0(0#0#46"/Users/Jason/Desktop/LockMyApp/PopupWindow.xib4300885448#286"    cd /Users/Jason/Desktop/LockMyApp    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/Resources/PopupWindow.nib /Users/Jason/Desktop/LockMyApp/PopupWindow.xib0#
+
+CCopyStringsFile /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s280048077.051720
+e280048077.111599
+r1
+xCopyStringsFile
+x/Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings280048077#280048077#0(0"0(0#0#62"/Users/Jason/Desktop/LockMyApp/English.lproj/InfoPlist.strings4300885448#354"    cd /Users/Jason/Desktop/LockMyApp    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/Resources/English.lproj0#
+
+CLd /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/MacOS/LockMyApp normal i386
+s280048077.730978
+e280048077.769741
+r1
+xLd
+x/Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/MacOS/LockMyApp
+xnormal
+xi386
+lSLF07#2@89"Link /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/MacOS/LockMyApp280048077#280048077#0(0"0(0#0#0"4300885448#519"    cd /Users/Jason/Desktop/LockMyApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Jason/Desktop/LockMyApp/build/Debug -F/Users/Jason/Desktop/LockMyApp/build/Debug -filelist /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/i386/LockMyApp.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/MacOS/LockMyApp0#
+
+CLd /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/MacOS/LockMyApp normal x86_64
+s280028737.339665
+e280028737.379027
+r1
+xLd
+x/Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/MacOS/LockMyApp
+xnormal
+xx86_64
+lSLF07#2@89"Link /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/MacOS/LockMyApp280028737#280028737#0(0"0(0#0#0"4300885448#523"    cd /Users/Jason/Desktop/LockMyApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Jason/Desktop/LockMyApp/build/Debug -F/Users/Jason/Desktop/LockMyApp/build/Debug -filelist /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/Objects-normal/x86_64/LockMyApp.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/MacOS/LockMyApp0#
+
+CProcessInfoPlistFile /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/Info.plist Info.plist
+s280048077.037436
+e280048077.051619
+r1
+xProcessInfoPlistFile
+x/Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist280048077#280048077#0(0"0(0#0#41"/Users/Jason/Desktop/LockMyApp/Info.plist4300885448#199"    cd /Users/Jason/Desktop/LockMyApp    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LockMyApp_Prefix-awraixfsrxntzdaricsghtfioaps/LockMyApp_Prefix.pch.gch LockMyApp_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s280027761.964802
+e280027768.854139
+r1
+xProcessPCH
+x/var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LockMyApp_Prefix-awraixfsrxntzdaricsghtfioaps/LockMyApp_Prefix.pch.gch
+xLockMyApp_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile LockMyApp_Prefix.pch280027761#280027768#0(0"0(0#0#51"/Users/Jason/Desktop/LockMyApp/LockMyApp_Prefix.pch4300885448#1314"    cd /Users/Jason/Desktop/LockMyApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-generated-files.hmap -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-own-target-headers.hmap -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-all-target-headers.hmap -iquote /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-project-headers.hmap -F/Users/Jason/Desktop/LockMyApp/build/Debug -I/Users/Jason/Desktop/LockMyApp/build/Debug/include -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/DerivedSources/x86_64 -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/DerivedSources -c /Users/Jason/Desktop/LockMyApp/LockMyApp_Prefix.pch -o /var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LockMyApp_Prefix-awraixfsrxntzdaricsghtfioaps/LockMyApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LockMyApp_Prefix-dadyuebmtflppkezjyypalxhnfhz/LockMyApp_Prefix.pch.gch LockMyApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s280029065.491123
+e280029069.682226
+r1
+xProcessPCH
+x/var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LockMyApp_Prefix-dadyuebmtflppkezjyypalxhnfhz/LockMyApp_Prefix.pch.gch
+xLockMyApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile LockMyApp_Prefix.pch280029065#280029069#0(0"0(0#0#51"/Users/Jason/Desktop/LockMyApp/LockMyApp_Prefix.pch4300885448#1310"    cd /Users/Jason/Desktop/LockMyApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-generated-files.hmap -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-own-target-headers.hmap -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-all-target-headers.hmap -iquote /Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/LockMyApp-project-headers.hmap -F/Users/Jason/Desktop/LockMyApp/build/Debug -I/Users/Jason/Desktop/LockMyApp/build/Debug/include -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/DerivedSources/i386 -I/Users/Jason/Desktop/LockMyApp/build/LockMyApp.build/Debug/LockMyApp.build/DerivedSources -c /Users/Jason/Desktop/LockMyApp/LockMyApp_Prefix.pch -o /var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LockMyApp_Prefix-dadyuebmtflppkezjyypalxhnfhz/LockMyApp_Prefix.pch.gch0#
+
+CTouch /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle
+s280048077.769852
+e280048077.772614
+r1
+xTouch
+x/Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle
+lSLF07#2@65"Touch /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle280048077#280048077#0(0"0(0#0#0"4300885448#120"    cd /Users/Jason/Desktop/LockMyApp    /usr/bin/touch -c /Users/Jason/Desktop/LockMyApp/build/Debug/LockMyApp.bundle0#
+
