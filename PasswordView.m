@@ -8,6 +8,7 @@
 
 #import "PasswordView.h"
 
+#define PASSWD @"pass"
 
 @implementation PasswordView
 @synthesize speaker;
@@ -46,17 +47,18 @@
     return self;
 }
 - (void) buttonPress {
-	if ([[password stringValue] isEqualToString:@"butthead"]) {
-		[speaker startSpeakingString:@"Yes, You are a butthead"];
+	if ([[password stringValue] isEqualToString:PASSWD]) {
+		[speaker startSpeakingString:@"Good guess"];
+		[_delegate restore];
 	} else {
-		[speaker startSpeakingString:[NSString stringWithFormat:@"%@ was not the code, You butt head",[password stringValue]]];
+		[speaker startSpeakingString:[NSString stringWithFormat:@"%@ was not the code, You lose",[password stringValue]]];
 		wrong = YES;
 		[speaker setDelegate:self];
 	}
 }
 - (void) speechSynthesizer:(NSSpeechSynthesizer *)sender didFinishSpeaking:(BOOL)finishedSpeaking {
 	if (wrong) {
-		[NSApp terminate:self];
+		//[NSApp terminate:self];
 	}
 }
 

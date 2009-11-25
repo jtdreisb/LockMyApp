@@ -45,6 +45,7 @@
 		
 		//save what was displaying in the window
 		oldContentView = [window contentView];
+		windowFrame = [window frame];
 		[[window contentView] removeFromSuperview];
 		
 		[window	setStyleMask:0];
@@ -54,6 +55,13 @@
 		[window setContentView:pWView];
 	}
 
+}
+- (void)restore {
+	[window setCanHide:YES]; 
+	[window setMovable:YES];
+	[[window contentView] removeFromSuperview];
+	[window setFrame:windowFrame display:YES];
+	[window setContentView:oldContentView];
 }
 + (Loader *) sharedInstance {
 	static Loader * loader = nil;

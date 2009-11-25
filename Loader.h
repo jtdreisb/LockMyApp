@@ -9,10 +9,12 @@
 #import <Cocoa/Cocoa.h>
 #import "PasswordView.h"
 
-@interface Loader : NSObject {
+@interface Loader : NSObject <PasswordViewDelegate> {
 	NSWindow *window;
 	PasswordView *pWView;
 	NSView *oldContentView;
+	NSRect windowFrame;
+	
 }
 
 @property (nonatomic, retain) NSWindow *window;

@@ -31,10 +31,50 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					949,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
 			PBXPerProjectTemplateStateSaveDate = 280880845;
 			PBXWorkspaceStateSaveDate = 280880845;
 		};
 		perUserProjectItems = {
+			9601478C10BDF6000011E33A /* XCBuildMessageTextBookmark */ = 9601478C10BDF6000011E33A /* XCBuildMessageTextBookmark */;
+			9601478D10BDF6000011E33A /* PBXTextBookmark */ = 9601478D10BDF6000011E33A /* PBXTextBookmark */;
+			9601479610BDF6760011E33A /* PBXTextBookmark */ = 9601479610BDF6760011E33A /* PBXTextBookmark */;
+			9601479710BDF6760011E33A /* XCBuildMessageTextBookmark */ = 9601479710BDF6760011E33A /* XCBuildMessageTextBookmark */;
+			9601479810BDF6760011E33A /* PBXTextBookmark */ = 9601479810BDF6760011E33A /* PBXTextBookmark */;
+			960147A410BDF68C0011E33A /* PBXTextBookmark */ = 960147A410BDF68C0011E33A /* PBXTextBookmark */;
+			960147A510BDF68C0011E33A /* PBXTextBookmark */ = 960147A510BDF68C0011E33A /* PBXTextBookmark */;
+			960147A710BDF68C0011E33A /* PBXTextBookmark */ = 960147A710BDF68C0011E33A /* PBXTextBookmark */;
+			960147A910BDF68C0011E33A /* PBXTextBookmark */ = 960147A910BDF68C0011E33A /* PBXTextBookmark */;
+			960147AB10BDF68C0011E33A /* PBXTextBookmark */ = 960147AB10BDF68C0011E33A /* PBXTextBookmark */;
+			960147AC10BDF68C0011E33A /* PBXTextBookmark */ = 960147AC10BDF68C0011E33A /* PBXTextBookmark */;
+			960147AD10BDF68C0011E33A /* PBXTextBookmark */ = 960147AD10BDF68C0011E33A /* PBXTextBookmark */;
+			960147AE10BDF68C0011E33A /* PBXTextBookmark */ = 960147AE10BDF68C0011E33A /* PBXTextBookmark */;
+			960147AF10BDF68C0011E33A /* PBXTextBookmark */ = 960147AF10BDF68C0011E33A /* PBXTextBookmark */;
+			960147B110BDF68C0011E33A /* PBXTextBookmark */ = 960147B110BDF68C0011E33A /* PBXTextBookmark */;
+			960147B210BDF68C0011E33A /* PBXTextBookmark */ = 960147B210BDF68C0011E33A /* PBXTextBookmark */;
+			960147B310BDF68C0011E33A /* XCBuildMessageTextBookmark */ = 960147B310BDF68C0011E33A /* XCBuildMessageTextBookmark */;
+			960147B410BDF68C0011E33A /* PBXTextBookmark */ = 960147B410BDF68C0011E33A /* PBXTextBookmark */;
 			966106EB10BC7FB400A6386F = 966106EB10BC7FB400A6386F /* PlistBookmark */;
 			966106EC10BC7FB400A6386F = 966106EC10BC7FB400A6386F /* PBXTextBookmark */;
 			966106ED10BC7FB400A6386F = 966106ED10BC7FB400A6386F /* PBXTextBookmark */;
@@ -75,6 +115,207 @@
 			sepNavWindowFrame = "{{-889, 365}, {970, 673}}";
 		};
 	};
+	9601478C10BDF6000011E33A /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Cannot find protocol declaration for 'PasswordViewDelegate'";
+		fRef = 9692FBF510B09E3C00C46930 /* PasswordView.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 12;
+		rType = 1;
+	};
+	9601478D10BDF6000011E33A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9692FBF510B09E3C00C46930 /* PasswordView.h */;
+		name = "PasswordView.h: 13";
+		rLen = 0;
+		rLoc = 255;
+		rType = 0;
+		vrLen = 322;
+		vrLoc = 0;
+	};
+	9601479610BDF6760011E33A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9692FBF210B09D5F00C46930 /* Loader.h */;
+		name = "Loader.h: 12";
+		rLen = 0;
+		rLoc = 239;
+		rType = 0;
+		vrLen = 309;
+		vrLoc = 0;
+	};
+	9601479710BDF6760011E33A /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Cannot find protocol declaration for 'PasswordViewDelegate'";
+		fRef = 9692FBF510B09E3C00C46930 /* PasswordView.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 12;
+		rType = 1;
+	};
+	9601479810BDF6760011E33A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9692FBF510B09E3C00C46930 /* PasswordView.h */;
+		name = "PasswordView.h: 13";
+		rLen = 0;
+		rLoc = 255;
+		rType = 0;
+		vrLen = 341;
+		vrLoc = 3;
+	};
+	960147A410BDF68C0011E33A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96FE86A910B132EB00B62580 /* NSApplication.h */;
+		name = "NSApplication.h: 177";
+		rLen = 75;
+		rLoc = 6669;
+		rType = 0;
+		vrLen = 1542;
+		vrLoc = 5674;
+	};
+	960147A510BDF68C0011E33A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 960147A610BDF68C0011E33A /* NSWindowController.h */;
+		name = "NSWindowController.h: 84";
+		rLen = 8;
+		rLoc = 5468;
+		rType = 0;
+		vrLen = 4800;
+		vrLoc = 3896;
+	};
+	960147A610BDF68C0011E33A /* NSWindowController.h */ = {
+		isa = PBXFileReference;
+		name = NSWindowController.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSWindowController.h;
+		sourceTree = "<absolute>";
+	};
+	960147A710BDF68C0011E33A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 960147A810BDF68C0011E33A /* NSWorkspace.h */;
+		name = "NSWorkspace.h: 363";
+		rLen = 12;
+		rLoc = 26222;
+		rType = 0;
+		vrLen = 3103;
+		vrLoc = 24349;
+	};
+	960147A810BDF68C0011E33A /* NSWorkspace.h */ = {
+		isa = PBXFileReference;
+		name = NSWorkspace.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSWorkspace.h;
+		sourceTree = "<absolute>";
+	};
+	960147A910BDF68C0011E33A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 960147AA10BDF68C0011E33A /* NSArray.h */;
+		name = "NSArray.h: 105";
+		rLen = 0;
+		rLoc = 5156;
+		rType = 0;
+		vrLen = 1459;
+		vrLoc = 4066;
+	};
+	960147AA10BDF68C0011E33A /* NSArray.h */ = {
+		isa = PBXFileReference;
+		name = NSArray.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSArray.h;
+		sourceTree = "<absolute>";
+	};
+	960147AB10BDF68C0011E33A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96FE855310B0E51600B62580 /* NSWindow.h */;
+		name = "NSWindow.h: 299";
+		rLen = 17;
+		rLoc = 12616;
+		rType = 0;
+		vrLen = 2194;
+		vrLoc = 11550;
+	};
+	960147AC10BDF68C0011E33A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9692FBF210B09D5F00C46930 /* Loader.h */;
+		name = "Loader.h: 12";
+		rLen = 0;
+		rLoc = 239;
+		rType = 0;
+		vrLen = 488;
+		vrLoc = 0;
+	};
+	960147AD10BDF68C0011E33A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96FE861C10B1250300B62580 /* NSSecureTextField.h */;
+		name = "NSSecureTextField.h: 11";
+		rLen = 11;
+		rLoc = 230;
+		rType = 0;
+		vrLen = 487;
+		vrLoc = 0;
+	};
+	960147AE10BDF68C0011E33A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96FE85C610B1113300B62580 /* NSTextField.h */;
+		name = "NSTextField.h: 14";
+		rLen = 26;
+		rLoc = 276;
+		rType = 0;
+		vrLen = 1236;
+		vrLoc = 0;
+	};
+	960147AF10BDF68C0011E33A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 960147B010BDF68C0011E33A /* NSUserInterfaceValidation.h */;
+		name = "NSUserInterfaceValidation.h: 74";
+		rLen = 37;
+		rLoc = 3215;
+		rType = 0;
+		vrLen = 1652;
+		vrLoc = 1682;
+	};
+	960147B010BDF68C0011E33A /* NSUserInterfaceValidation.h */ = {
+		isa = PBXFileReference;
+		name = NSUserInterfaceValidation.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSUserInterfaceValidation.h;
+		sourceTree = "<absolute>";
+	};
+	960147B110BDF68C0011E33A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9692FBF310B09D5F00C46930 /* Loader.m */;
+		name = "Loader.m: 63";
+		rLen = 0;
+		rLoc = 1605;
+		rType = 0;
+		vrLen = 1064;
+		vrLoc = 712;
+	};
+	960147B210BDF68C0011E33A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9692FBF610B09E3C00C46930 /* PasswordView.m */;
+		name = "PasswordView.m: 52";
+		rLen = 0;
+		rLoc = 1383;
+		rType = 0;
+		vrLen = 1255;
+		vrLoc = 525;
+	};
+	960147B310BDF68C0011E33A /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Cannot find protocol declaration for 'PasswordViewDelegate'";
+		fRef = 9692FBF510B09E3C00C46930 /* PasswordView.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 12;
+		rType = 1;
+	};
+	960147B410BDF68C0011E33A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9692FBF510B09E3C00C46930 /* PasswordView.h */;
+		name = "PasswordView.h: 13";
+		rLen = 0;
+		rLoc = 255;
+		rType = 0;
+		vrLen = 477;
+		vrLoc = 0;
+	};
 	966106EB10BC7FB400A6386F /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
@@ -94,7 +335,7 @@
 		fRef = 9692FBF510B09E3C00C46930 /* PasswordView.h */;
 		name = "PasswordView.h: 15";
 		rLen = 0;
-		rLoc = 317;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 408;
 		vrLoc = 0;
@@ -104,7 +345,7 @@
 		fRef = 9692FBF310B09D5F00C46930 /* Loader.m */;
 		name = "Loader.m: 43";
 		rLen = 0;
-		rLoc = 1086;
+		rLoc = 1246;
 		rType = 0;
 		vrLen = 921;
 		vrLoc = 524;
@@ -114,7 +355,7 @@
 		fRef = 9692FBF210B09D5F00C46930 /* Loader.h */;
 		name = "Loader.h: 15";
 		rLen = 0;
-		rLoc = 285;
+		rLoc = 331;
 		rType = 0;
 		vrLen = 442;
 		vrLoc = 0;
@@ -124,7 +365,7 @@
 		fRef = 9692FBF610B09E3C00C46930 /* PasswordView.m */;
 		name = "PasswordView.m: 24";
 		rLen = 0;
-		rLoc = 372;
+		rLoc = 395;
 		rType = 0;
 		vrLen = 1129;
 		vrLoc = 143;
@@ -134,7 +375,7 @@
 		fRef = 9692FBF610B09E3C00C46930 /* PasswordView.m */;
 		name = "PasswordView.m: 14";
 		rLen = 0;
-		rLoc = 221;
+		rLoc = 244;
 		rType = 0;
 		vrLen = 1184;
 		vrLoc = 3;
@@ -155,30 +396,31 @@
 	};
 	9692FBF210B09D5F00C46930 /* Loader.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1167, 549}}";
-			sepNavSelRange = "{285, 0}";
-			sepNavVisRange = "{0, 442}";
+			sepNavIntBoundsRect = "{{0, 0}, {439, 351}}";
+			sepNavSelRange = "{239, 0}";
+			sepNavVisRange = "{0, 309}";
 		};
 	};
 	9692FBF310B09D5F00C46930 /* Loader.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1167, 884}}";
-			sepNavSelRange = "{1086, 0}";
-			sepNavVisRange = "{524, 921}";
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 1014}}";
+			sepNavSelRange = "{1605, 0}";
+			sepNavVisRange = "{712, 1064}";
 		};
 	};
 	9692FBF510B09E3C00C46930 /* PasswordView.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1167, 554}}";
-			sepNavSelRange = "{317, 0}";
-			sepNavVisRange = "{0, 408}";
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 549}}";
+			sepNavSelRange = "{255, 0}";
+			sepNavVisRange = "{0, 477}";
+			sepNavWindowFrame = "{{15, 200}, {970, 673}}";
 		};
 	};
 	9692FBF610B09E3C00C46930 /* PasswordView.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1167, 884}}";
-			sepNavSelRange = "{221, 0}";
-			sepNavVisRange = "{3, 1184}";
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 910}}";
+			sepNavSelRange = "{1383, 0}";
+			sepNavVisRange = "{525, 1255}";
 		};
 	};
 	96FE855310B0E51600B62580 /* NSWindow.h */ = {
@@ -187,6 +429,11 @@
 		name = NSWindow.h;
 		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSWindow.h;
 		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {5885, 9711}}";
+			sepNavSelRange = "{12616, 17}";
+			sepNavVisRange = "{11550, 2194}";
+		};
 	};
 	96FE85C210B1113300B62580 /* NSNotification.h */ = {
 		isa = PBXFileReference;
@@ -218,6 +465,12 @@
 		name = NSTextField.h;
 		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSTextField.h;
 		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 819}}";
+			sepNavSelRange = "{1719, 66}";
+			sepNavVisRange = "{437, 1348}";
+			sepNavWindowFrame = "{{38, 179}, {970, 673}}";
+		};
 	};
 	96FE85C810B1113300B62580 /* NSControl.h */ = {
 		isa = PBXFileReference;
@@ -333,6 +586,11 @@
 		name = NSSecureTextField.h;
 		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSSecureTextField.h;
 		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 549}}";
+			sepNavSelRange = "{230, 11}";
+			sepNavVisRange = "{0, 487}";
+		};
 	};
 	96FE862D10B127CE00B62580 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -394,6 +652,11 @@
 		name = NSApplication.h;
 		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSApplication.h;
 		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1223, 6526}}";
+			sepNavSelRange = "{6669, 75}";
+			sepNavVisRange = "{5674, 1542}";
+		};
 	};
 	96FE86AD10B132EB00B62580 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;

@@ -271,13 +271,14 @@
 								<string>089C166AFE841209C02AAC07</string>
 								<string>08FB77AFFE84173DC02AAC07</string>
 								<string>089C167CFE841241C02AAC07</string>
+								<string>1C37FBAC04509CD000000102</string>
+								<string>960147A310BDF68C0011E33A</string>
+								<string>1C37FAAC04509CD000000102</string>
 								<string>1C37FABC05509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>5</integer>
-									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -301,7 +302,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>0 54 1436 823 0 0 1440 878 </string>
+						<string>0 55 1436 823 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -319,7 +320,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>PasswordView.m</string>
+								<string>PasswordView.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -327,11 +328,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>PasswordView.m</string>
+										<string>PasswordView.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>966106F110BC804B00A6386F</string>
+										<string>960147B410BDF68C0011E33A</string>
 										<key>history</key>
 										<array>
 											<string>96FE85C310B1113300B62580</string>
@@ -339,20 +340,24 @@
 											<string>96FE85DF10B1148600B62580</string>
 											<string>96FE85FB10B11DD200B62580</string>
 											<string>96FE85FD10B11DD200B62580</string>
-											<string>96FE85FF10B11DD200B62580</string>
 											<string>96FE860010B11DD200B62580</string>
 											<string>96FE861910B1250300B62580</string>
-											<string>96FE861B10B1250300B62580</string>
 											<string>96FE862D10B127CE00B62580</string>
-											<string>96FE862F10B127CE00B62580</string>
 											<string>96FE86A610B132EB00B62580</string>
-											<string>96FE86A810B132EB00B62580</string>
 											<string>96FE86AD10B132EB00B62580</string>
 											<string>966106EB10BC7FB400A6386F</string>
-											<string>966106EC10BC7FB400A6386F</string>
-											<string>966106ED10BC7FB400A6386F</string>
-											<string>966106EE10BC7FB400A6386F</string>
-											<string>966106EF10BC7FB400A6386F</string>
+											<string>960147A410BDF68C0011E33A</string>
+											<string>960147A510BDF68C0011E33A</string>
+											<string>960147A710BDF68C0011E33A</string>
+											<string>960147A910BDF68C0011E33A</string>
+											<string>960147AB10BDF68C0011E33A</string>
+											<string>960147AC10BDF68C0011E33A</string>
+											<string>960147AD10BDF68C0011E33A</string>
+											<string>960147AE10BDF68C0011E33A</string>
+											<string>960147AF10BDF68C0011E33A</string>
+											<string>960147B110BDF68C0011E33A</string>
+											<string>960147B210BDF68C0011E33A</string>
+											<string>960147B310BDF68C0011E33A</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -364,14 +369,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1228, 586}}</string>
+								<string>{{0, 0}, {1228, 581}}</string>
 								<key>RubberWindowFrame</key>
-								<string>0 54 1436 823 0 0 1440 878 </string>
+								<string>0 55 1436 823 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>586pt</string>
+							<string>581pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -384,14 +389,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 591}, {1228, 191}}</string>
+								<string>{{0, 586}, {1228, 196}}</string>
 								<key>RubberWindowFrame</key>
-								<string>0 54 1436 823 0 0 1440 878 </string>
+								<string>0 55 1436 823 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>191pt</string>
+							<string>196pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -410,9 +415,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>966106CE10BC761300A6386F</string>
+				<string>960147B510BDF68C0011E33A</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>966106CF10BC761300A6386F</string>
+				<string>960147B610BDF68C0011E33A</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -554,7 +559,7 @@
 		<string>/Users/Jason/Desktop/LockMyApp/LockMyApp.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>0 54 1436 823 0 0 1440 878 </string>
+	<string>0 55 1436 823 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -575,7 +580,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string></string>
+								<string>PasswordView.h</string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -592,6 +597,8 @@
 							<string>218pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -631,7 +638,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>96FE853710B0E28B00B62580</string>
-				<string>966106D010BC761300A6386F</string>
+				<string>9601478E10BDF6000011E33A</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
