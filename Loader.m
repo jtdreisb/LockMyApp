@@ -30,25 +30,27 @@
 
 - (void) checkWindow {
 	window = [NSApp mainWindow];
-	//[ hideOtherApplications];
+	[NSApp hideOtherApplications:self];		//just to be annoying
+	
 	if (window == nil) {
-		[NSTimer scheduledTimerWithTimeInterval:1.0 target:self selector:@selector(checkWindow) userInfo:nil repeats:NO];
+		//no main window so we check again
+		[NSTimer scheduledTimerWithTimeInterval:1.0 target:self selector:@selector(checkWindow) userInfo:nil repeats:NO]; 
 	}
 	else {
-		//[window toggleToolbarShown:self];
-		[window setMovable:NO];
-		//[window setCanBeVisibleOnAllSpaces:YES];
+		//Override the window
+		[window center];
+		[window	makeKeyAndOrderFront:self];
 		[window setCanHide:NO]; 
-		//[window makeKeyWindow];
+		[window setMovable:NO];
+		
+		//save what was displaying in the window
+		oldContentView = [window contentView];
 		[[window contentView] removeFromSuperview];
 		
 		[window	setStyleMask:0];
 		[window setFrame:NSMakeRect(849, 525, 156, 196) display:YES];
 		
 		//set new content view
-		
-		
-		
 		[window setContentView:pWView];
 	}
 
